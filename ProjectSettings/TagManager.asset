@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gate
+  - SendPanel
+  - ScorePanel
+  - Score
+  - Names
+  - Times
+  - Ragdoll
+  - Pulkka
+  - RagdollSpot
+  - Terrain
+  - Flightpath
+  - MainMenuPanel
+  - OptionsPanel
+  - tree
+  - Speed
+  - Time
+  - FinishCamera
+  - FinishScreenManager
+  - FinGatesText
+  - FinTimeText
+  - FinRankText
+  - Fin5Times
+  - SubmitTime
+  - NamePrompt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundBox
+  - Lippu
+  - Ground
+  - Finish
+  - Snowman
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

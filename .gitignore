@@ -1,0 +1,127 @@
+# .gitignore
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+sysinfo.txt
+*.pidb.meta
+
+# Asset folders
+/Assets/[Mm]esh/
+/Assets/[Mm]aterials/
+/Assets/[Ss]ound/
+/Assets/[Tt]extures/
+/Assets/TSF/
+/Assets/UI/
+/Assets/[Pp]refabs/
+/Assets/[Ff]onts/
+/Assets/Day-Night\ Skyboxes/
+
+/Assets/[Mm]esh.meta
+/Assets/[Mm]aterials.meta
+/Assets/[Ss]ound.meta
+/Assets/[Tt]extures.meta
+/Assets/TSF.meta
+/Assets/UI.meta
+/Assets/[Pp]refabs.meta
+/Assets/[Ff]onts.meta
+/Assets/Day-Night\ Skyboxes.meta
+/Assets/Materials.meta
+/Assets/Shaders.meta
+/Assets/Tree\ 1.prefab
+/Assets/Tree\ 1.prefab.meta
+/Assets/Tree\ 2.prefab.meta
+/Assets/Tree\ 2.prefab
+/Assets/Tree.prefab
+/Assets/Tree.prefab.meta
+/Assets/mokk_res.blend.meta
+/Assets/testTerrain.asset
+/Assets/testTerrain.asset.meta
+
+# Asset folder metas
+
+
+# VS/Rider/MD/Consulo
+ExportedObj/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Builds
+*.apk
+*.unitypackage
+*.app
+*.exe
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Large assets
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+*.ai
+*.tif
+*.cubemap
+
+# Audio
+*.mp3
+*.wav
+*.ogg
+
+# Video
+*.mp4
+*.mov
+
+# 3D Objects
+*.FBX
+*.fbx
+*.blend
+*.obj
+
+# Other
+*.a
+*.exr
+*.tga
+*.pdf
+*.zip
+*.dll
+*.aif
+*.ttf
+*.rns
+*.reason
+*.lxo

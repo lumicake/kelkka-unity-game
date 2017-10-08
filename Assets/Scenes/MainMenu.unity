@@ -214,7 +214,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnStartClick
         m_Mode: 1
         m_Arguments:
@@ -1287,7 +1287,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnBackButtonClick
         m_Mode: 1
         m_Arguments:
@@ -3405,7 +3405,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnOptionsClick
         m_Mode: 1
         m_Arguments:
@@ -6375,7 +6375,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnExitClick
         m_Mode: 1
         m_Arguments:
@@ -7085,7 +7085,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnHighscoresClick
         m_Mode: 1
         m_Arguments:
@@ -7506,7 +7506,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1084696550}
         m_MethodName: OnBackButtonClick
         m_Mode: 1
         m_Arguments:
